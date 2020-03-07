@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 
-    int number1=10, number3=4, number2=20, sum;
+    int number1=14, number2=29, sum;
 
     // calculating sum
     sum = number1 + number2;
